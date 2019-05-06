@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+body{background-color:rgb(255,180,70);}
+</style>
+<title>Milanesas</title>
+</head>
+
+<body>
+<header>
+<h1 style="color:rgb(0,0,0);" align="center">Milanesas</h1>
+</header>
+<h2 style="color:rgb(0,0,0);">Las milanesas solo son de pollo o de carne</h2>
+<h3> Solo pueden ser acopañadas con</h3>
+<ul style="color:white;">
+<li>Papas fritas</li>
+<li>Pure</li>
+<li>Arroz</li>
+</ul>
+
+<h3 style="color:black;">Tambien pueden ser</h3>
+<ul style="color:white;">
+<li>Caballo</li>
+<li>Napolitana</li>
+<li>Provolone</li>
+<li>Chedar</li>
+<li>A la suiza</li>
+</ul>
+
+<p  align="center"> <Button><a style="color:rgb(0,0,0);" href="https://elclubdelamilanesa.com/delivery-caba.html">El club de la milanesa</a> </button> </p>
+<p align="center"> <img  src="https://elclubdelamilanesa.com/images/content/products/x1531749183.jpg.pagespeed.ic.giMylIA17z.webp"> </p> 
+</body>
